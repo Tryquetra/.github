@@ -1,4 +1,6 @@
-# Tryquetra 🔺
+![Triquetra Logo](img/triquetra.webp)
+
+# Tryquetra
 
 > **We build the best balanced ternary computers.**
 
