@@ -1,4 +1,6 @@
-![Triquetra Logo](img/triquetra.webp)
+<p align="center">
+  <img src="/img/triquetra.webp" alt="Triquetra Logo" width="333">
+</p>
 
 # Tryquetra
 
