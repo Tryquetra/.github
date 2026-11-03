@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/triquetra.webp" alt="Triquetra Logo" width="333">
+  <img src="/img/triquetra.png" alt="Triquetra Logo" width="333">
 </p>
 
 # Tryquetra
