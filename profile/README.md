@@ -39,4 +39,4 @@ Our work is focused on building a complete ternary ecosystem, from the foundatio
 Binary computing brought us this far. Ternary computing will take us forward.
 
 * **Website:** [tryquetra.org](https://tryquetra.org)
-* **Contact:** `info@tryquetra.org`
+* **Contact:** [falecom@robsoncassiano.software](mailto:falecom@robsoncassiano.software)
